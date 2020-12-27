@@ -1,0 +1,15 @@
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\App.g.i.cs
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\App.g.cs
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\MainPage.g.i.cs
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\MainPage.g.cs
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\ProgressBar.g.i.cs
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\ProgressBar.g.cs
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\XamlTypeInfo.g.cs
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\App.xaml
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\MainPage.xaml
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\ProgressBar.xaml
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\App.xbf
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\MainPage.xbf
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\ProgressBar.xbf
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\XamlSaveStateFile.xml
+C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x64\Debug\Zadatak2.Demo.csproj.CoreCompileInputs.cache

@@ -1,0 +1,9 @@
+﻿"C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x86\Release\ilc\in\ClassLibrary.dll"
+"C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x86\Release\ilc\in\Microsoft.Toolkit.dll"
+"C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x86\Release\ilc\in\Zadatak2.Demo.exe"
+/Lib:"C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x86\Release\ilc\in"
+/Lib:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\x86\ilc\lib\Private"
+/WinMD:"C:\Users\admin\Desktop\OPOS\OposZadaci2020\Zadatak2.Demo\obj\x86\Release\ilc\in\WinMetadata\Windows.winmd"
+/VSTelemetrySessionSettings:"{"IsOptedIn":true,"HostName":"Dev14","AppInsightsInstrumentationKey":"f144292e-e3b2-4011-ac90-20e5c03fbce5","AsimovInstrumentationKey":"AIF-312cbd79-9dbb-4c48-a7da-3cc2a931cb70","AppId":1001,"UserId":"39a4eee1-9436-4282-9233-43e7d00dbcb4","Id":"64c11b5f-9025-4ea6-a75d-702c71ffef6a","ProcessStartTime":637444117561606253}"
+/RdXmlPath:"C:\Program Files (x86)\Microsoft SDKs\UWPNuGetPackages\microsoft.net.native.compiler\2.2.8-rel-28605-00\tools\LibraryXML"
+/RunOnlyPreDR

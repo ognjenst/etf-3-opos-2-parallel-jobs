@@ -1,0 +1,2 @@
+C:\Users\ognje\Desktop\OPOS1\OPOS1\OposZadaci2020\ClassLibrary11\ClassLibrary11.csproj;x86
+C:\Users\ognje\Desktop\OPOS1\OPOS1\OposZadaci2020\Zadatak2.Demo\Zadatak2.Demo.csproj;x86
