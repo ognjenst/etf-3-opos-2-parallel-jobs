@@ -1,2 +1,0 @@
-C:\Users\ognje\Desktop\dunjav2\ClassLibrary11\ClassLibrary11.csproj;x64
-C:\Users\ognje\Desktop\dunjav2\Zadatak2.Demo\Zadatak2.Demo.csproj;x64
